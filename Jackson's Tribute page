@@ -1,0 +1,68 @@
+h1 {
+  font-size: 100px;
+}
+h3 {
+  font-size: 40px;
+}
+img {
+  height: 400px;
+}
+#images {
+  margin: auto;
+  width: 35%;
+}
+#schedule{
+  center
+  width: 400px;
+  border: 5px solid black;
+  padding: 25px;
+  margin: 25px;
+  }
+#link {
+  text-align: center;
+}
+
+
+<!--css above and html below :) -->
+
+
+<h1 class="text-center">Jackson</h1>
+<h2 class="text-center"><em>The dog who is actually a small horse</em></h2>
+<br />
+<div id="images" style="height: 250px">
+  <img src="https://emlabradors.com/wp-content/uploads/2012/11/Jake-tara-x-mackie-1-yr-old.jpg" alt="Large black lab laying down looking at the camera"/>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<h3 class="text-center">Jackson's daily routine:</h3>
+<br />
+<div id="schedule">
+  <ul>
+    <li><strong>8:00 am</strong>: Jackson wakes Ashley up so that he can stretch his legs outside and urinate</li>
+    <br />
+    <li><strong>8:30 am</strong>: Jackson eat his breakfast</li>
+    <br />
+    <li><strong>9:00 am</strong>: Jackson plays with his toys</li>
+    <br />
+    <li><strong>10:00 am - 3:00 pm</strong>: Jackson lays down for a long nap in his crate while Ashley goes to work</li>
+    <br />
+    <li><strong>3:00 pm</strong>: Jackson goes outside to stretch his legs and urinate when Jami gets home</li>
+    <br />
+    <li><strong>3:30 pm</strong>: Jackson plays with his toys and hangs out with Jami until Ashley gets home</li>
+    <br />
+    <li><strong>5:30 pm</strong>: Jackson greets Ashley when she walks in the house</li>
+    <br />
+    <li><strong>6:00 pm</strong>: Jackson eats his dinner</li>
+    <br />
+    <li><strong>7:00 pm</strong>: Jackson begs for food while Ashley and Jami eat dinner</li>
+    <br />
+    <li><strong>10:00pm - 8:00am</strong>: Jackson gaurds the bedroom while Ashley and Jami sleep; also licks himself raw</li>
+  </ul>
+</div>
+  <p id="link">Check out Jackson's <a href="#">Facebook</a> page!
